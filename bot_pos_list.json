@@ -1,0 +1,40 @@
+{
+  "bot_states": [
+    {
+      "ID": 0,
+      "direction": 1.5707963268,
+      "state": {},
+      "x_position": -100.0,
+      "y_position": 160.0
+    },
+    {
+      "ID": 1,
+      "direction": 1.5707963268,
+      "state": {},
+      "x_position": -100.0,
+      "y_position": 80.0
+    },
+    {
+      "ID": 2,
+      "direction": 1.5707963268,
+      "state": {},
+      "x_position": -100.0,
+      "y_position": 0.0
+    },
+    {
+      "ID": 3,
+      "direction": 1.5707963268,
+      "state": {},
+      "x_position": -100.0,
+      "y_position": -80.0
+    },
+    {
+      "ID": 4,
+      "direction": 1.5707963268,
+      "state": {},
+      "x_position": -100.0,
+      "y_position": -160.0
+    }
+  ],
+  "ticks": 7292
+}
